@@ -26,8 +26,11 @@ I'm a Software Engineer based in **Singapore**, currently working at **Delivery 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rengas&show_icons=true&theme=radical&hide_border=true" alt="rengas github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengas&layout=compact&theme=radical&hide_border=true" alt="rengas top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rengas&theme=radical&no-frame=true&margin-w=15" alt="rengas trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rengas&theme=radical&hide_border=true" alt="rengas streak" />
 </p>
 
 ---
